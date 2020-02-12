@@ -1,0 +1,96 @@
+a{
+    text-decoration:none;
+    color:white;
+}
+a:visited{
+    color:white;
+}
+body{
+    padding:0px;
+    margin:0px;
+}
+.navbar{
+    background:#134095;
+    height:90px;
+    position:fixed;
+    width:100%;
+    position:fixed;
+    top:0px;
+}
+.logo{
+    width:80px;
+    height:80px;
+}
+.nav{
+    float:right;
+}
+.nav-item{
+    color:white;
+    float:left;
+    list-style:none;
+    padding:20px;
+    font-family: 'Anton', sans-serif;
+}
+.roshi{
+    background-image:
+    url(./img/Roshi\ Hero\ Img.jpg);
+    height:800px;
+    width:100%;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.Sign-up{
+    border:2px solid white;
+    background:black;
+    font-size:40px;
+    padding:5px;
+    font-weight:600px;
+    color:white;
+    float:left;
+    position:relative;
+    font-family:arial;
+    top:550px;
+    left:595px;
+}
+.home-content{
+    top:30px;
+    background-color:gray;
+    width:100%;
+    height:500px;
+}
+.content-img{
+    width:300px;
+    height:250px;
+    background-image: url(./img/results.gif);
+    background-size:contain;
+    background-repeat:no-repeat;
+    /* display:inline-block; */
+    position:relative;
+    bottom:-85px;
+    left:150px;
+}
+.cont-para{
+    color: white;
+    background-color: black;
+    height: 230px;
+    width: 300px;
+    position: relative;
+    bottom: 179px;
+    left: 520px;
+    padding: 10px;
+}
+
+.footer{
+    background:#134095;
+    height:90px;
+    width:100%;
+}
+.footer-item{
+    float:left;
+    margin-top:40px;
+    margin-left:300px;
+}
+.icons{
+    font-size: 30px;
+    color: red;
+}
